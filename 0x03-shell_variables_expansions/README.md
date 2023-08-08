@@ -1,2 +1,2 @@
-This is a repository of the Shell, init files, variables and expansions project
+This is the read me file of the Shell, init files, variables and expansions project
   
